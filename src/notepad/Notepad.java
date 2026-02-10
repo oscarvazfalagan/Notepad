@@ -15,6 +15,7 @@ public class Notepad {
      */
     public static void main(String[] args) {
         System.out.println("Adeus de Antonio");
+        System.out.println("Ola de Oscar");
         System.out.println("hola");
         System.out.println("Otro ola de Antonio");
     }
