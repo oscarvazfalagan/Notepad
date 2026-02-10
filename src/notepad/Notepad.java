@@ -14,7 +14,7 @@ public class Notepad {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Ola de Antonio");
+        System.out.println("Ola de Oscar");
         System.out.println("hola");
         System.out.println("Otro ola de Antonio");
     }
